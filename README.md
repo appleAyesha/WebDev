@@ -1,2 +1,2 @@
 # WebDev
-Classes,work and programming for CTE WebDev Clasees.
+Classes,work and programming for CTE WebDev Classes
